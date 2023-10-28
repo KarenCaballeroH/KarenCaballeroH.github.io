@@ -26,7 +26,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color:#81575f;
 }
 
 .seccion-clara {
@@ -148,6 +148,11 @@ h1 {
 .proyectos-recientes {
   padding: 40px;
 }
+.proyectos-recientes .seccion-titulo{
+  font-family: 'Noto Sans Osmanya', sans-serif;
+  font-size: 40px;
+  color: #9a8bcb;
+}
 
 .proyectos-recientes img {
   height: 100%;
@@ -208,6 +213,12 @@ h1 {
   padding: 40px 40px 80px 40px;
 }
 
+.testimonios .seccion-titulo{
+  font-family: 'Noto Sans Osmanya', sans-serif;
+  font-size: 40px;
+  color: #9a8bcb;
+}
+
 .testimonios .carousel {
   max-width: 800px;
 }
@@ -266,7 +277,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #9a6e76;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
